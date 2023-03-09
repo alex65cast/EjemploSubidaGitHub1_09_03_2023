@@ -1,0 +1,33 @@
+body{
+
+    padding: 0;
+    margin: 0;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: antiquewhite; 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#general{
+
+    width: 30em;
+    height: 30em;
+
+    background-color: red;
+}
+
+#primerCirculo{
+
+    height: 30em;
+    width: 30em;
+    border-radius: 50%;
+
+    background-color: blue;
+}
